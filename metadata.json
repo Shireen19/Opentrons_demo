@@ -1,0 +1,6 @@
+{
+  "name": "Opentrons 96-Well Serial Dilution Designer",
+  "description": "A visual tool for designing serial dilution protocols for Opentrons robots, featuring a 96-well plate simulator and Python script generator.",
+  "requestFramePermissions": [],
+  "majorCapabilities": []
+}
